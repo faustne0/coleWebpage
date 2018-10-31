@@ -1,0 +1,18 @@
+<html>
+<title>Cole's Hole</title>
+<body bgcolor="000000" background="webpage/frontpage.gif" 
+text="ff0000" alink="000080" link="000080" vlink="000080">
+<font face="comic sans ms bold">
+<center><img alt="i'm i blind" src="webpage/blind.jpg">
+<center>
+<img alt="yup thats me" src="webpage/blindthunder.gif" width="638" height="437"></center>
+hey there people this is my web page, feel free to look around. i am not done yet but u get the picture. well i guess thats it. oh yeah dont forget to
+sign my guest book ok. well thats it peace.
+<center>
+<a href="html\biography.htm">
+<img alt="read my bio it's cool" src="webpage/bio.gif"></a>
+<img alt="just some of my friends" src="webpage/pix.gif">
+<img alt="sign my guest book please!!!" src="webpage/guest.gif">
+</center>
+</body>
+</html>
